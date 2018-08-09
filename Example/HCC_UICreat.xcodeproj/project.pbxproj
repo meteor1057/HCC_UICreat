@@ -489,7 +489,7 @@
 				GCC_PREFIX_HEADER = "HCC_UICreat/HCC_UICreat-Prefix.pch";
 				INFOPLIST_FILE = "HCC_UICreat/HCC_UICreat-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.demo.hccuicreat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -504,7 +504,7 @@
 				GCC_PREFIX_HEADER = "HCC_UICreat/HCC_UICreat-Prefix.pch";
 				INFOPLIST_FILE = "HCC_UICreat/HCC_UICreat-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.demo.hccuicreat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

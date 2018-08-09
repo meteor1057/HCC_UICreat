@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.1'
   s.summary          = 'A short description of HCC_UICreat.(0.1.1)'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+The summary is not meaningful, 操!!!
                        DESC
 
   s.homepage         = 'https://github.com/meteor1057/HCC_UICreat'
@@ -13,7 +13,6 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '195711779@qq.com' => '195711779@qq.com' }
   s.source           = { :git => 'https://github.com/meteor1057/HCC_UICreat.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
