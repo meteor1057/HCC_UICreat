@@ -1,0 +1,6 @@
+framework module HCC_UICreat {
+  umbrella header "HCC_UICreat-umbrella.h"
+
+  export *
+  module * { export * }
+}

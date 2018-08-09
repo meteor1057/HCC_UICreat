@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'HCC_UICreat_Example' do
+  pod 'HCC_UICreat', :path => '../'
+
+  target 'HCC_UICreat_Tests' do
+    inherit! :search_paths
+
+#    pod 'FBSnapshotTestCase'
+  end
+  
+end
